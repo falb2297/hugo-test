@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://falb2297.github.io/hugo-test/</loc>
     <lastmod>2020-08-11T22:24:29-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://falb2297.github.io/hugo-test/posts/</loc>
     <lastmod>2020-08-11T22:24:29-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/second-post/</loc>
+    <loc>https://falb2297.github.io/hugo-test/posts/second-post/</loc>
     <lastmod>2020-08-11T22:24:29-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://falb2297.github.io/hugo-test/posts/first-post/</loc>
     <lastmod>2020-08-11T22:24:16-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://falb2297.github.io/hugo-test/contact/</loc>
     <lastmod>2020-08-11T22:17:33-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://falb2297.github.io/hugo-test/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://falb2297.github.io/hugo-test/tags/</loc>
   </url>
   
 </urlset>
